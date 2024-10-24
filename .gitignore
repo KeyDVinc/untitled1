@@ -1,8 +1,9 @@
 /HELP.md
  target/
  build/
- .idea
- .gradle
+ .idea/*
+ .gradle/*
+
 !**/src/main/**
  !**/src/test/**
 
