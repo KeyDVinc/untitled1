@@ -1,0 +1,25 @@
+/HELP.md
+ target/
+ build/
+ .idea
+ .gradle
+!**/src/main/**
+ !**/src/test/**
+
+
+
+ ### IntelliJ IDEA ###
+
+ *.iws
+ *.iml
+ *.ipr
+
+*.log
+
+
+ ### Gradle ###
+
+
+
+ ### VS Code ###
+ .vscode/
